@@ -1,5 +1,9 @@
 # Martyisms
 
+## Parenting
+
+- Kids give you the opportunity to be proud of things you'd never be proud of yourself for. Nobody gets excited when I walk in a straight line or eat all of my broccoli.
+
 ## Technology
 
 - Don't come to me with solutions. Come with problems.
