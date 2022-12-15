@@ -6,6 +6,10 @@
   How many things wouldn't you do if they were 20 minutes further away?
 - Kids give you the opportunity to be proud of things you'd never be proud of yourself for. Nobody gets excited when I walk in a straight line or eat all of my broccoli.
 
+# Process
+
+- Don't change the rules in the middle of the game.
+
 ## Technology
 
 - Don't come to me with solutions. Come with problems.
