@@ -20,3 +20,5 @@ How many things wouldn't you do if they were 20 minutes further away?
 <a href="#shared-software" id="shared-software">#</a> It's easy to make software for yourself. It's hard to make software for somebody else.
 
 <a href="#more-time-more-code" id="more-time-more-code">#</a> Everything is possible with more time and more code.
+
+<a href="#experienced-enough-to-get-nothing-done" id="experienced-enough-to-get-nothing-done">#</a> The more experienced you get, the quicker you find problems within the solutions that you propose. Eventually, I'll be so experienced that I'll instantly talk myself out of any idea I have, and I'll cease to get anything done.
