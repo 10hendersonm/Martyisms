@@ -21,7 +21,7 @@ How many things wouldn't you do if they were 20 minutes further away?
 
 <a href="#more-time-more-code" id="more-time-more-code">#</a> Everything is possible with more time and more code.
 
-# Experience / Accomplishments
+## Experience / Accomplishments
 
 <a href="#experienced-enough-to-get-nothing-done" id="experienced-enough-to-get-nothing-done">#</a> The more experienced you get, the quicker you find problems within the solutions that you propose. Eventually, I'll be so experienced that I'll instantly talk myself out of any idea I have, and I'll cease to get anything done.
 
