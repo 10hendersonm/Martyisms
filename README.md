@@ -7,6 +7,8 @@ How many things wouldn't you do if they were 20 minutes further away?
 
 <a href="#im-not-drunk" id="im-not-drunk">#</a> Kids give you the opportunity to be proud of things you'd never be proud of yourself for. Nobody gets excited when I walk in a straight line or eat all of my broccoli.
 
+<a href="#kids-learn-things" id="kids-learn-things">#</a> One of the weirder moments of parenting is when your kid starts going to school and comes back with knowledge you didn't give them. Prior to that point, everything your child knows is information you gave them.
+
 ## Process
 
 <a href="#new-rules" id="new-rules">#</a> Don't change the rules in the middle of the game.
