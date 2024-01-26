@@ -15,6 +15,8 @@ How many things wouldn't you do if they were 20 minutes further away?
 
 ## Technology
 
+<a href="#surely-this-time" id="surely-this-time">#</a> Surely, this time it'll work!
+
 <a href="#no-solutions" id="no-solutions">#</a> Don't come to me with solutions. Come with problems.
 
 <a href="#security" id="security">#</a> Security is not a problem until it's a problem.
